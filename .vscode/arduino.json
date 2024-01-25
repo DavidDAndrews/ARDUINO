@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem4101",
+    "sketch": "sketch_280_switch/sketch_280_switch.ino",
+    "programmer": "avrisp"
+}
